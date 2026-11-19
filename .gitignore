@@ -1,0 +1,6 @@
+# Archivos pesados de R
+.RData
+.Rhistory
+.Rproj.user/
+*.sav
+*.docx
